@@ -7,6 +7,7 @@ links
 -----
 
 http://malalanayake.wordpress.com/2014/06/27/spring-security-on-rest-api/
+http://projects.spring.io/spring-security/
 
 curl egs
 --------
